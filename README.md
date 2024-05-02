@@ -31,9 +31,9 @@
   <img width="12" />
   <img src="https://www.svgrepo.com/download/448221/docker.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/2bf1c982fb24528eee1559a96a25eb534c175cfd/SVG/Power-BI.svg" height="40" alt="powerbi logo"  />
-  <img width="12" />
   <img src="https://www.svgrepo.com/download/353380/airflow.svg" height="40" alt="airflow logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/2bf1c982fb24528eee1559a96a25eb534c175cfd/SVG/Power-BI.svg" height="40" alt="powerbi logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/download/452202/figma.svg" height="40" alt="figma logo"  />
 </div>
