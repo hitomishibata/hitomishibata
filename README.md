@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating data pipelines using Azure Data Factory, Databricks, and Airflow<br>📚 I'm currently learning to make API using FastAPI<br>🎯 Goals: achieving as many data engineering projects covering different tools, concepts, and techniques so that I can contribute to organizations by establishing efficient data workflow <br>🎲 Fun fact: I switched my career to IT from Pedagogical Science. My previous job was as a coordinator at a university research community. </p>
+<p align="left">✨ Creating data pipelines using Azure Data Factory, Databricks, and Airflow. Extracting data from API and making my own API.<br>📚 I'm currently working on a project, "Data Pipelines for Stock Market API" by using airflow, AWS tools, and Snowflake<br>🎯 Goals: achieving as many data engineering projects covering different tools, concepts, and techniques so that I can contribute to organizations by establishing efficient data workflow <br>🎲 Fun fact: I switched my career to IT from Pedagogical Science as I enjoyed working on data especially the trial and error process to break down complex issues into small ones in handling complex data. I worked as a coordinator at a university research community so I am looking for a new challenge in which I can apply both stakeholder engagement and data skills.  </p>
 
 ###
 
